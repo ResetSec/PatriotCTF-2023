@@ -6,3 +6,4 @@ For the jack of all trades! These challenges test your versatility, spanning a m
 
 ## Challenges
 
+- ### [Flower Shop](<Flower Shop>)
