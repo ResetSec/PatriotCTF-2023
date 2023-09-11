@@ -25,6 +25,9 @@ When decoding the Cipher we get this:
 ![](./cipher-decoded.png)
 
 46.768,-92.124
+
+#### Getting the Flag
+
 The description of the Challenge tells us that we have to find a City, so it looks like the numbers we got are GPS coordinats.
 Pasting them into Google Maps reveals the City we're looking for:
 Duluth
