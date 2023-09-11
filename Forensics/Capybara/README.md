@@ -20,7 +20,7 @@ So let's move to the next tool we could try.
 
 After steghide kinda failed i ran ```binwalk -e capybara-jpeg``` on the file and we actually get a [file](./audio.wav)!
 
-![steghide](./binwalk.png)
+![](./binwalk.png)
 
 #### Decoding the Morse Code
 
