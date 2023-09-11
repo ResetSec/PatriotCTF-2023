@@ -7,7 +7,7 @@ by h04x
 ![](./description.png)
 
 Downloadable file:
-[capybara.jpeg](./capyybara.jpeg)
+[capybara.jpeg](./capybara.jpeg)
 
 #### Analyzing the Files
 
