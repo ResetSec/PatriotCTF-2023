@@ -1,11 +1,13 @@
 # Patriot CTF | Forensics | Capybara
 
+by h04x
+
 ### Challenge Description 
 
 ![](./description.png)
 
 Downloadable file:
-[capybara.jpeg](./cypybara.jpeg)
+![capybara.jpeg](./capyybara.jpeg)
 
 #### Analyzing the Files
 
@@ -18,7 +20,7 @@ So let's move to the next tool we could try.
 
 After steghide kinda failed i ran ```binwalk -e capybara-jpeg``` on the file and we actually get a [file](./audio.wav)!
 
-[steghide](./binwalk.png)
+![steghide](./binwalk.png)
 
 #### Decoding the Morse Code
 
