@@ -7,7 +7,7 @@ by h04x
 ![](./description.png)
 
 Downloadable file:
-[rockyou.zip]([./rockyou.zip](https://pctf.competitivecyber.club/challenges#Uh%20Oh!-41))
+[rockyou.zip]((https://pctf.competitivecyber.club/challenges#Uh%20Oh!-41)
 
 #### Getting the Phonenumber
 
