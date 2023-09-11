@@ -18,6 +18,7 @@ Discord - https://discord.gg/Z8pA43vQcW
 ## [Crypto](<Crypto>)
  * #### [Example](<Crypto/Example/>)
 ## [Forensics](<Forensics>)
+ * #### [Capybara](<Forensics/Capybara/>)
 ## [Misc](<Misc>)
  * #### [Flower Shop](<Misc/Flower Shop/>)
 ## [OSINT](<OSINT>)
