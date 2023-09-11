@@ -16,7 +16,9 @@ Website - https://pctf.competitivecyber.club/
 Discord - https://discord.gg/Z8pA43vQcW
 
 ## [Crypto](<Crypto>)
+ * #### [Breakfast Club](<Crypto/Breakfast Club/>)
  * #### [Example](<Crypto/Example/>)
+ * #### [Multi-numeral](<Crypto/Multi-numeral/>)
  * #### [My Phone!](<Crypto/My Phone!/>)
 ## [Forensics](<Forensics>)
  * #### [Capybara](<Forensics/Capybara/>)
