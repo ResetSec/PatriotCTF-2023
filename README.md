@@ -22,6 +22,7 @@ Discord - https://discord.gg/Z8pA43vQcW
  * #### [Capybara](<Forensics/Capybara/>)
 ## [Misc](<Misc>)
  * #### [Flower Shop](<Misc/Flower Shop/>)
+ * #### [Uh Oh!](<Misc/Uh Oh!/>)
 ## [OSINT](<OSINT>)
 ## [Pwn](<Pwn>)
 ## [Reverse](<Reverse>)
