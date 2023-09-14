@@ -6,6 +6,7 @@ For the jack of all trades! These challenges test your versatility, spanning a m
 
 ## Challenges
 
+- ### [Binary](<Binary>)
 - ### [Flag Finder](<Flag Finder>)
 - ### [Flower Shop](<Flower Shop>)
 - ### [MLpyjail](<MLpyjail>)

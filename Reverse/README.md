@@ -7,3 +7,4 @@ Unravel the mysteries of software's hidden secrets! Break through the digital en
 ## Challenges
 
 - ### [Patchwork](<Patchwork>)
+- ### [Python Garbage Compiler](<Python Garbage Compiler>)
