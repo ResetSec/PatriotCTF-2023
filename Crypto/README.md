@@ -6,4 +6,7 @@ The word “cryptography” technically means the art of writing codes. When it 
 
 ## Challenges
 
+- ### [Breakfast Club](<Breakfast Club>)
 - ### [Example](<Example>)
+- ### [Multi-numeral](<Multi-numeral>)
+- ### [My Phone!](<My Phone!>)

@@ -6,3 +6,4 @@ Open-source intelligence (OSINT) is the collection and analysis of data gathered
 
 ## Challenges
 
+- ### [Bad Documentation](<Bad Documentation>)

@@ -6,4 +6,7 @@ For the jack of all trades! These challenges test your versatility, spanning a m
 
 ## Challenges
 
+- ### [Flag Finder](<Flag Finder>)
 - ### [Flower Shop](<Flower Shop>)
+- ### [Twins](<Twins>)
+- ### [Uh Oh!](<Uh Oh!>)
