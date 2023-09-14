@@ -8,5 +8,7 @@ For the jack of all trades! These challenges test your versatility, spanning a m
 
 - ### [Flag Finder](<Flag Finder>)
 - ### [Flower Shop](<Flower Shop>)
+- ### [MLpyjail](<MLpyjail>)
 - ### [Twins](<Twins>)
 - ### [Uh Oh!](<Uh Oh!>)
+- ### [WPA](<WPA>)
