@@ -33,6 +33,8 @@ Discord - https://discord.gg/Z8pA43vQcW
  * #### [WPA](<Misc/WPA/>)
 ## [OSINT](<OSINT>)
  * #### [Bad Documentation](<OSINT/Bad Documentation/>)
+ * #### [Karter](<OSINT/Karter/>)
+ * #### [Rogue Access Point](<OSINT/Rogue Access Point/>)
 ## [Pwn](<Pwn>)
 ## [Reverse](<Reverse>)
  * #### [Patchwork](<Reverse/Patchwork/>)
